@@ -1,7 +1,8 @@
-## NZBN verification using TypeScript
+## NZBN verification using nodejs with TypeScript
 
 ## Introduction
-    NZBN verification in node js. nzbn verification using TypeScript. We have provide nzbn verification api.
+    NZBN verification in node js. nzbn verification using TypeScript. We have provide nzbn verification demo apis.
+    For verify nzbn number we need to provide nzbn number and nzbn access key(Provided by nzbn team)
 
 ## Setup Steps:
 `npm install`
